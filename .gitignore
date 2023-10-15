@@ -1,0 +1,14 @@
+.vscode
+.idea
+
+# Static files
+static/
+staticfiles/
+app/local.env
+
+*.sql
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
